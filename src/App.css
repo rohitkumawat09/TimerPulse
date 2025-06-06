@@ -1,0 +1,60 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.direction-text {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.icon {
+  vertical-align: middle;
+  margin-left: 5px;
+}
+
+.icon.up {
+  color: green;
+}
+
+.icon.down {
+  color: red;
+}
+
+.count-display {
+  font-size: 60px;
+  margin: 20px 0;
+}
+
+.btn {
+  border: none;
+  color: white;
+  font-weight: 600;
+  padding: 12px 28px;
+  margin: 0 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.start-stop {
+  background-color: #007bff;
+}
+
+.start-stop:hover {
+  background-color: #0056b3;
+}
+
+.reset {
+  background-color: #6c757d;
+}
+
+.reset:hover {
+  background-color: #5a6268;
+}
