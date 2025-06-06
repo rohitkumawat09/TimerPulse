@@ -44,7 +44,7 @@
 }
 
 .start-stop {
-  background-color: #007bff;
+  background-color:green;
 }
 
 .start-stop:hover {
@@ -52,9 +52,13 @@
 }
 
 .reset {
-  background-color: #6c757d;
+  background-color: rgb(228, 95, 95); ;
+  color: white;
+  font-weight: 600;
+  padding: 12px 28px;
+  margin: 0 10px;
 }
 
 .reset:hover {
-  background-color: #5a6268;
+  background-color:red;
 }
